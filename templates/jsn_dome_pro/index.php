@@ -46,6 +46,7 @@ $jsnutils = JSNTplUtils::getInstance();
 			<jdoc:include type="modules" name="topbar" style="jsnmodule" />
 		</div>
 		<div class="clearbreak"></div>
+		<div class="clearbreak">123</div>
 	</div>
 	<?php } ?>
 	<div id="jsn-page" class="container">
